@@ -57,3 +57,5 @@ ENV \
  LD_LIBRARY_PATH=/usr/lib/fsl/5.0:$LD_LIBRARY_PATH \
  PATH=/usr/lib/fsl/5.0:/usr/share/fsl/5.0/bin:$PATH \
  POSSUMDIR=/usr/share/fsl/5.0
+
+EXPOSE 8888
